@@ -2,4 +2,4 @@
 
 
 
-![Samurai Champloo GIF](https://github.com/thEchroniCamateuR/thEchroniCamateuR/main/cut-with-katana-katana-hit.gif)
+![Samurai Champloo GIF](https://github.com/thEchroniCamateuR/thEchroniCamateuR/blob/main/cut-with-katana-katana-hit.gif)
