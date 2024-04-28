@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thEchroniCamatueR)](https://github.com/thEchroniCamatueR/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thEchroniCamatueuR)](https://github.com/thEchroniCamateuR/github-readme-stats)
 <!--
 **thEchroniCamateuR/thEchroniCamateuR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
