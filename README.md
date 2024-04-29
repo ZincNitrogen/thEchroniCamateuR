@@ -1,5 +1,5 @@
 <a href="https://github.com/thEchroniCamateuR/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thEchroniCamateuR" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thEchroniCamateuR&theme=transparent" />
 </a>
 
 
