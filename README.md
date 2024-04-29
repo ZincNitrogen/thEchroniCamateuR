@@ -13,5 +13,5 @@
 </span>
 
 <span align="center">
-  <img height=200 align="center" src="https://github.com/thEchroniCamateuR/thEchroniCamateuR/blob/main/bebop%20eating.gif#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github.com/thEchroniCamateuR/thEchroniCamateuR/blob/main/bepop%20smoke.gif#gh-light-mode-only" />
 </span>
