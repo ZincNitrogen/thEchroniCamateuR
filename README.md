@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/thEchroniCamateuR/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thEchroniCamateuR&size_weight=0.5&count_weight=0.5&theme=rose#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thEchroniCamateuR&size_weight=0.5&count_weight=0.5&theme=rose&card_width=400#gh-light-mode-only" />
 </a>
 
 
