@@ -1,5 +1,5 @@
 <a href="https://github.com/thEchroniCamateuR/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thEchroniCamateuR&size_weight=0.5&count_weight=0.5&theme=transparent&title_color=ff0000&border_color=ff0000&text_color=ff3200#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thEchroniCamateuR&size_weight=0.5&count_weight=0.5&theme=transparent&title_color=ff0000&border_color=ff0000&text_color=00d045#gh-dark-mode-only" />
 </a>
 
 
