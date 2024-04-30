@@ -9,7 +9,7 @@
 
 
 <span align="center" >
-  <img height=200 align="center" src="https://github.com/thEchroniCamateuR/thEchroniCamateuR/blob/main/cut-with-katana-katana-hit.gif#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github.com/thEchroniCamateuR/thEchroniCamateuR/blob/main/chessgamegif.gif#gh-dark-mode-only" />
 </span>
 
 <span align="center">
